@@ -1,0 +1,74 @@
+{
+  "name": "HP Trainer",
+  "identity": "hp_trainer",
+  "bag": [],
+  "battleRules": {
+    "maxItemUses": 0
+  },
+  "ai": {
+    "type": "none"
+  },
+  "optional": true,
+  "team": [
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 1,
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "moveset": ["helpinghand", "gravity"],
+      "ivs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0},
+      "evs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0}
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 1,
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "moveset": ["helpinghand", "gravity"],
+      "ivs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0},
+      "evs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0}
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 1,
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "moveset": ["helpinghand", "gravity"],
+      "ivs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0},
+      "evs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0}
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 1,
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "moveset": ["helpinghand", "gravity"],
+      "ivs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0},
+      "evs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0}
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 1,
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "moveset": ["helpinghand", "gravity"],
+      "ivs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0},
+      "evs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0}
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 1,
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "moveset": ["helpinghand", "gravity"],
+      "ivs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0},
+      "evs": {"hp": 0, "atk": 0, "def": 0, "spa": 0, "spd": 0, "spe": 0}
+    }
+  ]
+}
